@@ -26,6 +26,8 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/f/fb/Affinity_Photo_logo_new.png" alt="affinity" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/6/6d/Affinity_Designer_logo_new.png" alt="affinity" width="40" height="40"/> </a>
+<a href="https://www.sketchup.com/" target="_blank"> <img src="https://banner2.cleanpng.com/20180324/sew/kisspng-sketchup-logo-3d-modeling-computer-aided-design-co-ebay-5ab6e8b357c396.6309617015219365633595.jpg" alt="sketchup" width="40" height="40"/> </a>
+<a href="https://www.autodesk.com/products/autocad/overview" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/1-19823_transparent-cad-png-logo-autocad-2018-png-png.png" alt="sketchup" width="40" height="40"/> </a>
 </p>
 
 <!--

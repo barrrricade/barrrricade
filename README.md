@@ -1,4 +1,8 @@
-### Hi there 👋
+### Name's Desmond
+- Multi-disciplined Tech developer / electronics engineer
+
+[![Linkedin: Desmond](https://img.shields.io/badge/-nicoletaciobanu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicoletaciobanu/)](https://www.linkedin.com/in/desmond-ip-47a432102//)
+[![GitHub Desmond](https://img.shields.io/github/followers/nicoletacalin?label=follow&style=social)](https://github.com/nicoletacalin)
 
 <!--
 **barrrricade/barrrricade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

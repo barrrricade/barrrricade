@@ -1,10 +1,8 @@
 ### Name's Desmond
 - Multi-disciplined Tech developer / electronics engineer
-<div style="margin-right: 5px;">
   [![Linkedin: Desmond](https://img.shields.io/badge/-Desmond-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicoletaciobanu/)](https://www.linkedin.com/in/desmond-kh-ip//)
-</div>
 [![GitHub Desmond](https://img.shields.io/github/followers/Desmond?label=follow&style=social)](https://github.com/barrrricade)
-<a href="https://www.notion.so/Desmond-Ip-Electronics-engineer-Fullstack-developer-2dbdfefdc9644b7b9c595a0bbbc8dae6" target="_blank">
+<a href="https://www.notion.so/Desmond-Ip-Electronics-engineer-Fullstack-developer-2dbdfefdc9644b7b9c595a0bbbc8dae6" target="_blank" style="margin-left: 5px;">
   <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/notion_logo_icon_147257.png" alt="Notion Page" height="15"/>
   visit my profile
 </a>

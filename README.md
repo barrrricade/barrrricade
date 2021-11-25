@@ -1,6 +1,6 @@
 ### Name's Desmond
-<H2>- QA/QC engineer @ Okra Solar<H2/>
-<H3> Finished LeWagon WebDev course 573<H3/>
+<h2>- QA/QC engineer @ Okra Solar<h2/>
+<h3> Finished LeWagon WebDev course 573<h3/>
 
 
   

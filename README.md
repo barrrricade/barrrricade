@@ -1,7 +1,6 @@
 ### Name's Desmond
-<H2>- QA/QC engineer @ Okra Solar<H2/><br>
-<H3> Finished LeWagon WebDev course 573<H3/>
-<br>
+<H2>- QA/QC engineer @ Okra Solar<H2/>
+<H3> Finished LeWagon WebDev course 573<H3/><br>
 [![Linkedin: Desmond](https://img.shields.io/badge/-Desmond-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicoletaciobanu/)](https://www.linkedin.com/in/desmond-kh-ip//)
 [![GitHub Desmond](https://img.shields.io/github/followers/Desmond?label=follow&style=social)](https://github.com/barrrricade)
 <a href="https://www.notion.so/Desmond-Ip-Electronics-engineer-Fullstack-developer-2dbdfefdc9644b7b9c595a0bbbc8dae6" target="_blank" style="margin-left: 5px;">

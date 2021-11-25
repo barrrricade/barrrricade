@@ -2,8 +2,6 @@
 <h2>- QA/QC engineer @ Okra Solar<h2/>
 <h3> Finished LeWagon WebDev course 573<h3/>
 
-
-  
 <a href="https://www.notion.so/Desmond-Ip-Electronics-engineer-Fullstack-developer-2dbdfefdc9644b7b9c595a0bbbc8dae6" target="_blank" style="margin-left: 5px;">
   <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/notion_logo_icon_147257.png" alt="Notion Page" height="20"/>
   visit my profile

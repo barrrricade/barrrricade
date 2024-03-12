@@ -1,7 +1,7 @@
 ### Name's Desmond
 <h2>- QA/QC engineer @ Okra Solar<h2/>
 <h3> Finished LeWagon WebDev course 573<h3/>
-<h4>My Profile here!<a href='desmond-ip.com'>desmond-ip.com<a/><h4/>
+<h4>My Profile here!: <a href='https://desmond-ip.com'>desmond-ip.com<a/><h4/>
 
 <!--
 **barrrricade/barrrricade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
